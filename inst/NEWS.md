@@ -1,3 +1,8 @@
+# MsQuality 1.2
+
+## Changes in version 1.2.1
+- bug fix due to inclusion of MS:40000155 in specification file
+
 # MsQuality 1.1
 
 ## Changes in version 1.1.3
