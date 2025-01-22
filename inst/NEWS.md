@@ -1,4 +1,6 @@
 # MsQuality 1.1
+## Changes in version 1.6.1
+- update after changes in OBO file / rmzqc 
 
 ## Changes in version 1.1.3
 - update tests after update of OBO file / rmzqc
