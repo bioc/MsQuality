@@ -1,6 +1,13 @@
-# MsQuality 1.1
+
+# MsQuality 1.6
+
+## Changes in version 1.6.2
+- put ticQuantileRtFraction at the end of the file function_Spectra_metrics.R
+
 ## Changes in version 1.6.1
 - update after changes in OBO file / rmzqc 
+
+# MsQuality 1.1
 
 ## Changes in version 1.1.3
 - update tests after update of OBO file / rmzqc
